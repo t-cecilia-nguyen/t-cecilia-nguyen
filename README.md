@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Cecilia!
+# 👋 Hi, I'm Cecilia!
 
 👩🏻‍💻 I'm a new grad student in the Computer Programming and Analysis program at George Brown College, with 3 years of hands-on, project-based experience.<br><be>
 📱 My main focus is on front-end development and creating user-friendly, responsive web and mobile applications.<br><be>
