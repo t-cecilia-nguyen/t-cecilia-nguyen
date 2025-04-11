@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Cecilia!
 
-👩🏻‍💻 I'm a new grad student in the Computer Programming and Analysis program at George Brown College, with 3 years of hands-on, project-based experience.<br><be>
+📓 Studied Computer Programming and Analysis at George Brown College, Canada.<br><be>
+👩🏻‍💻 I have 3 years of hands-on, project-based experience.<br><be>
 📱 My main focus is on front-end development and creating user-friendly, responsive web and mobile applications.<br><be>
 💻 Currently learning more about React, JavaScript, and mobile app development.<br><be>
 🍪 I enjoy baking and playing video games in my spare time!
